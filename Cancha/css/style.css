@@ -1,0 +1,80 @@
+.cancha{
+	height: 500px;
+	width: 1000px;
+	background-color: #00DD8C;
+	border: 5px solid white ;
+	margin: -7px;
+	position: relative;
+}
+.cancha_dentro{
+	height: 450px;
+	width: 950px;
+	background-color: #00DD8C;
+	border: 5px solid white ;
+	position: absolute;
+	top:20px;
+	left:25px;
+}
+
+.arco1{
+	height: 200px;
+	width: 100px;
+	background-color: #00DD8C;
+	border: 5px solid white ;
+	position: absolute;
+	top: 150px;
+	left:25px;
+
+}
+.arco2{
+	height: 200px;
+	width: 100px;
+	background-color: #00DD8C;
+	border: 5px solid white ;
+	position: absolute;
+	top: 155px;
+	left: 875px;
+}
+.centro{
+	height: 150px;
+	width: 150px;
+	background-color: #00DD8C;
+	border: 5px solid white ;
+	border-radius: 100px 100px 100px 100px;
+	position: absolute;
+	bottom: 170px;
+	left: 436px;
+}
+.ball1{
+	background-image: url(../img/ball1.png);
+	background-size: 100%;
+	position: absolute;
+	top:150px;
+	left:115px;
+	width: 25px;
+	height: 25px;
+
+}
+.ball2{
+	background-image: url(../img/ball2.png);
+	background-size: 100%;
+	position: absolute;
+	top:120px;
+	left:550px;
+	width: 25px;
+	height: 25px;
+
+}
+.ball3{
+	background-image: url(../img/ball3.png);
+	background-size: 100%;
+	position: absolute;
+	top:335px;
+	left:840px;
+	width: 25px;
+	height: 25px;
+}
+
+
+
+

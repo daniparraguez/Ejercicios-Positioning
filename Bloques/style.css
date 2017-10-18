@@ -1,0 +1,45 @@
+.cuadro_rojo{
+	height: 300px;
+	width: 300px;
+	background-color: red;
+	margin-bottom: 10px;
+}
+.cuadro_violeta{
+	height: 150px;
+	width: 150px;
+	background-color: purple;
+	position: relative;
+	right: -70px;
+	bottom: -70px;
+
+}
+.cuadro_amarillo{
+	height: 70px;
+	width: 70px;
+	background-color: yellow;
+	position: relative; 
+	right: -70px;
+	top: -80px;
+
+}
+.cuadro_azul{
+	height: 300px;
+	width: 300px;
+	background-color: blue;
+	
+}
+.cuadro_verde{
+	height: 150px;
+	width: 150px;
+	background-color: green;
+	position: relative;
+	right: -70px;
+	bottom: -70px;
+}
+.cuadro_negro{
+	height: 70px;
+	width: 70px;
+	background-color: black;
+	position: relative;
+	top:-150px;
+}
